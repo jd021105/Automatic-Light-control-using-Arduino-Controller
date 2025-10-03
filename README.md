@@ -1,5 +1,6 @@
 # Automatic Light Controller using LDR and Arduino UNO controller.
-
+## DEEPAK KRISHNA
+## 212223060038
 ##  AIM:
 
 To design and simulate automatic light controller using LDR and Arduino UNO controller in proteus.
@@ -65,8 +66,10 @@ LDR Features of LDR are as follows:
 ## PROGRAM:
 
 ## CIRCUIT DIAGRAM:
+![emb ckt](https://github.com/user-attachments/assets/a80d8329-6dbd-4ceb-a70c-c93cc33c095f)
 
 ## OUTPUT:
+![ebm op](https://github.com/user-attachments/assets/5aa65cff-d34d-44a3-bc2e-07fd62cd398a)
 
 ## RESULT:
 Thus the automatic light controller was designed and simulated using LDR and Arduino UNO controller.
